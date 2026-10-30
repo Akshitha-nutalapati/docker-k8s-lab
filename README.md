@@ -7,7 +7,7 @@ Personal learning notes and hands-on exercises for Docker and Kubernetes.
 | Phase | Topic | Status |
 |-------|--------|--------|
 | Day 1 | Images, containers, ports, logs, exec | Done |
-| Day 2 | Dockerfile (Flask app) | Next |
+| Day 2 | Dockerfile (Flask app) | Done |
 | Day 3 | Volumes & env vars | Pending |
 | Day 4 | Docker networks | Pending |
 | Day 5 | Docker Compose | Pending |
@@ -33,3 +33,4 @@ exercises/    # Code you write while learning
 ## Quick links
 
 - [Docker Day 1](docs/docker/day-01-images-and-containers.md)
+- [Docker Day 2](docs/docker/day-02-dockerfile.md)
